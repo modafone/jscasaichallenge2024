@@ -8,7 +8,7 @@
 複数回の手術動画から取り出した静止画
 
 ## 評価指標
-提出BBと正解BB間の重なり度合いをIoU(Intersection over Union)で評価します．
+提出BBと正解BB間の重なり度合いをIoU(Intersection over Union)で評価します．詳しくは以下の画像を参照してください．
 
 ※評価委員による主観評価を併用する場合もあります
 ![評価指標など](level0_submit.png)
