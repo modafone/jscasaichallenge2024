@@ -29,9 +29,9 @@
 
 ```
 File,Category   
-9997.jpg,0
-9998.jpg,1
-9999.jpg,1
+lv1_eval1_0000,0
+lv1_eval1_0001,0
+lv1_eval1_0002,1
 ```
 
 - 手法の概要原稿
